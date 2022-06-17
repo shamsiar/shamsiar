@@ -20,7 +20,7 @@ I am Shamsiar Hamid. Software Engineer from Bangladesh and currently working rem
 
 ## Portfolio
 
-[https://github.com/shamsiar/shamsiar](https://github.com/shamsiar/shamsiar)
+[https://shamsiar.github.io/portfolio_vue/](https://shamsiar.github.io/portfolio_vue/)
 
 ## Reach Me
 
